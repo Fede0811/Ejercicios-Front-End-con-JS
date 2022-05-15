@@ -1,0 +1,170 @@
+#navegador{
+    color: white !important;
+}
+
+.h2{
+    color: white;
+}
+
+
+
+#antes{
+    background-image: url(../Fotos/ba1.jpg);
+    background-size: cover;
+    height: 100vh;
+    filter: brightness(50%);
+}
+
+.carousel-item{
+    filter: brightness(50%);
+}
+
+
+h1{text-align: right;
+    color:white;
+    padding-left: 10px;
+}
+
+#Parrafo1{
+    text-align: right;
+    color: white;
+    padding-left: 50px;
+    font-size: 0.6em
+}
+#tecla{margin-left: 700px;font-size: 2.0em;
+}
+
+.linea1{
+    text-align: center;
+    font-size: 0.8em;
+}
+#titulos{
+    font-size: 2em;
+    color: black;
+    text-align: center;
+}
+.card-text{
+    font-size: 0.8em;
+}
+
+.izquierda{
+    background-image:url(../Fotos/honolulu.jpg);
+    background-size: cover;
+    width: 50%;
+    height: 100vh;
+}
+.derecha{
+    background-color: #2E3647;
+    width: 50%;
+    height: 100vh;
+    padding-left: 15px;
+    padding-top: 30px;
+}
+
+#pantalla_dividida{
+    display: flex;
+}
+
+.parrafo2{
+    color: white;
+    font-size: 0.9em;
+}
+
+#titulo2{
+    color: white;
+}
+
+#orador{
+    color: black;
+}
+
+#recuadro{
+    text-align: center;
+}
+
+#parrafo{
+    font-size: 0.9em;
+}
+
+#parrafo1{
+    font-size: 0.8em;
+}
+
+#pie_de_pagina{
+    background-color:#143577;
+    padding-top: 15px;
+    padding-block: 15px;
+}
+
+
+#pie{
+    padding-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/* codigo de style index1.html */
+
+#navegador{
+    color: white !important;
+}
+
+#ti{
+    color: white;
+    padding-left: 30px;
+}
+
+
+#va{text-align: center;
+    color: black;
+}
+
+#pa{
+    text-align: center;
+    font-size: none;
+}
+
+.izquierda2{
+    width: 50%;
+    height: 5vh;
+}
+.derecha2{
+    width: 50%;
+    height: 5vh;
+}
+
+#pantalla_dividida2{
+    display: flex;
+}
+
+#pie_de_pagina{
+    background-color:#143577;
+    padding-top: 15px;
+    padding-block: 15px;
+}
+
+
+#pie{
+    padding-top: 20px;
+}
+
+.h5{
+    text-align: center;
+}
+
+.descuento{
+    text-align: center;
+}
+
+.doc{
+    color: gray;
+    text-align: center;
+}
+
+.h3{
+    text-align: center;
+}
